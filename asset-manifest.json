@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Harshad-Sonagara/static/js/main.abb15ca6.chunk.js",
+    "main.js.map": "/Harshad-Sonagara/static/js/main.abb15ca6.chunk.js.map",
+    "runtime-main.js": "/Harshad-Sonagara/static/js/runtime-main.4a0a4185.js",
+    "runtime-main.js.map": "/Harshad-Sonagara/static/js/runtime-main.4a0a4185.js.map",
+    "static/js/2.a53aabd0.chunk.js": "/Harshad-Sonagara/static/js/2.a53aabd0.chunk.js",
+    "static/js/2.a53aabd0.chunk.js.map": "/Harshad-Sonagara/static/js/2.a53aabd0.chunk.js.map",
+    "index.html": "/Harshad-Sonagara/index.html",
+    "static/js/2.a53aabd0.chunk.js.LICENSE.txt": "/Harshad-Sonagara/static/js/2.a53aabd0.chunk.js.LICENSE.txt",
+    "static/media/Harshad4.021aaf83.jpg": "/Harshad-Sonagara/static/media/Harshad4.021aaf83.jpg",
+    "static/media/LOGO.d4870d51.jfif": "/Harshad-Sonagara/static/media/LOGO.d4870d51.jfif",
+    "static/media/design.8ecb3043.svg": "/Harshad-Sonagara/static/media/design.8ecb3043.svg",
+    "static/media/game-dev.20147858.svg": "/Harshad-Sonagara/static/media/game-dev.20147858.svg",
+    "static/media/intelligence.11bd2ab2.svg": "/Harshad-Sonagara/static/media/intelligence.11bd2ab2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a0a4185.js",
+    "static/js/2.a53aabd0.chunk.js",
+    "static/js/main.abb15ca6.chunk.js"
+  ]
+}
